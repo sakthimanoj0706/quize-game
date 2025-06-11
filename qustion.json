@@ -1,0 +1,115 @@
+For this format {
+"quiz_title": "General Knowledge Challenge",
+"levels": [
+{
+"difficulty": "easy",
+"questions": [
+{
+"question": "Which planet is known as the Red Planet?",
+"options": ["Venus", "Mars", "Jupiter", "Saturn"],
+"answer": "Mars",
+"explanation": "Mars appears red due to iron oxide (rust) on its surface."
+},
+{
+"question": "What is the capital of France?",
+"options": ["Berlin", "Madrid", "Paris", "Rome"],
+"answer": "Paris",
+"explanation": "Paris is known as the 'City of Light' and is France's political/cultural center."
+},
+{
+"question": "Who wrote 'Romeo and Juliet'?",
+"options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"],
+"answer": "William Shakespeare",
+"explanation": "Shakespeare wrote this tragic love story in the 1590s."
+},
+{
+"question": "What is the largest ocean on Earth?",
+"options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+"answer": "Pacific",
+"explanation": "The Pacific Ocean covers about 30% of Earth's surface area."
+},
+{
+"question": "Which animal is known as the 'King of the Jungle'?",
+"options": ["Elephant", "Tiger", "Gorilla", "Lion"],
+"answer": "Lion",
+"explanation": "Lions are apex predators in their ecosystems."
+}
+]
+},
+{
+"difficulty": "medium",
+"questions": [
+{
+"question": "What is the chemical symbol for gold?",
+"options": ["Go", "Gd", "Au", "Ag"],
+"answer": "Au",
+"explanation": "Comes from Latin 'aurum' meaning shining dawn."
+},
+{
+"question": "Which country is known as the Land of the Rising Sun?",
+"options": ["China", "Thailand", "Japan", "South Korea"],
+"answer": "Japan",
+"explanation": "Japan's name (Nihon) means 'origin of the sun'."
+},
+{
+"question": "Who invented the telephone?",
+"options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+"answer": "Alexander Graham Bell",
+"explanation": "Bell received the first US patent for the telephone in 1876."
+},
+{
+"question": "What is the currency of Japan?",
+"options": ["Won", "Yuan", "Yen", "Ringgit"],
+"answer": "Yen",
+"explanation": "The yen is the third most traded currency in forex markets."
+},
+{
+"question": "Which organ produces insulin in the human body?",
+"options": ["Liver", "Kidney", "Pancreas", "Heart"],
+"answer": "Pancreas",
+"explanation": "Beta cells in the pancreas produce insulin to regulate blood sugar."
+}
+]
+},
+{
+"difficulty": "hard",
+"questions": [
+{
+"question": "Which element has the highest melting point?",
+"options": ["Tungsten", "Carbon", "Osmium", "Titanium"],
+"answer": "Tungsten",
+"explanation": "Tungsten melts at 3422°C (6192°F) - highest of all metals."
+},
+{
+"question": "Who was the first woman to win a Nobel Prize?",
+"options": ["Marie Curie", "Rosalind Franklin", "Dorothy Hodgkin", "Maria Goeppert-Mayer"],
+"answer": "Marie Curie",
+"explanation": "Won the 1903 Physics Nobel for radioactivity research."
+},
+{
+"question": "What is the only mammal capable of true flight?",
+"options": ["Flying Squirrel", "Bat", "Colugo", "Sugar Glider"],
+"answer": "Bat",
+"explanation": "Bats are mammals with modified forelimbs serving as wings."
+},
+{
+"question": "Which country has the most natural lakes?",
+"options": ["Canada", "Russia", "USA", "Finland"],
+"answer": "Canada",
+"explanation": "Canada contains about 60% of the world's lakes."
+},
+{
+"question": "What is the smallest bone in the human body?",
+"options": ["Stapes", "Incus", "Malleus", "Femur"],
+"answer": "Stapes",
+"explanation": "The stapes in the middle ear is only 3mm long."
+}
+]
+}
+],
+"metadata": {
+"total_questions": 15,
+"categories": ["Science", "Geography", "History", "Biology"],
+"creation_date": "2023-10-15"
+}
+}
